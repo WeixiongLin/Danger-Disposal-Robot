@@ -7,6 +7,9 @@ I realize this during my work in Student Innovation Center, SJTU, as a teaching 
 
 The robot is 2-layer structure. The upper layer hold an arm to carry out multiple tasks. The lower layer enable robot to run.
 
+![Pic](images/1.jpg)
+![Pic](images/2.jpg)
+
 ## Acknowledgement
 
 Thanks to the contribution of JiaLe Zhang(1), me(2), Zhe Ji(3), Jin Gao(4) from left to right in the group photo.
